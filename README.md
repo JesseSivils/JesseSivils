@@ -1,7 +1,6 @@
 - Hello, I’m Jesse Sivils!!!
 - About Me: 
 - I would like to become a machine learning engineer and am learning python as my first programming language.
--
 - I am interested in programming, math, and machine learning 
 
 <!---
